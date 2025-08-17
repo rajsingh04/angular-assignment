@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Wireless Mouse",
+      "price": 649.99,
+      "image": "https://imgs.search.brave.com/9f4MS1cofMKqhAhQ3bB-0RPnBD_rTxi4-v_zvRLu1mM/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly90aHVt/YnMuZHJlYW1zdGlt/ZS5jb20vYi9ibGFj/ay13aXJlbGVzcy1t/b3VzZS13aGl0ZS1i/YWNrZ3JvdW5kLWNv/bXB1dGVyLTMxOTkw/MTU1Mi5qcGc",
+      "description": "An ergonomic wireless mouse with a long-lasting battery, perfect for office workand gaming."
+    },
+    {
+      "id": 2,
+      "name": "Mechanical Keyboard",
+      "price": 999.99,
+      "image": "https://imgs.search.brave.com/KVI3Msl2tixbo4ZWlr0xg290qs7kuYVrvtGh1Drg1Bk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9udXBo/eS5jb20vY2RuL3No/b3AvcHJvZHVjdHMv/TnVQaHlBaXI5Nl9N/YWluMDFfMjIxMjA5/XzQwMHgucG5nP3Y9/MTc0NDU5ODQzNw",
+      "description": "A durable mechanical keyboard with customizable RGB backlighting andtactile key switches."
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 1249.99,
+      "image": "https://imgs.search.brave.com/IEdlzgUwl2HZH4IJHgM4QGxp9R1Co7cOpn7nKj6UFns/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZXR0eWltYWdl/cy5jb20vaWQvMTM4/MzA1MzE2OC9waG90/by9ibGFjay1oZWFk/cGhvbmVzLXdpcmVs/ZXNzLWhlYWRwaG9u/ZXMtaXNvbGF0ZWQt/b24td2hpdGUtYmFj/a2dyb3VuZC13aXRo/LWNsaXBwaW5nLXBh/dGguanBnP3M9NjEy/eDYxMiZ3PTAmaz0y/MCZjPWJ3YWR3U0hy/ZGc4dDVNbWVPcXB4/WWk1SWFTUlpuYWQ4/M0gzY1E1WDc4U2M9",
+      "description": "Noise-cancelling over-ear headphones with 30-hour battery life."
+    },
+    {
+      "id": 4,
+      "name": "Laptop",
+      "price": 40199.99,
+      "image": "https://imgs.search.brave.com/vEy1lIFCvLy2EpuYBrnC1jRXCDKzshNbxzQhB67if2w/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvMTQ1/NDI5NTc4NC9waG90/by9sYXB0b3AtYW5k/LXNtYXJ0cGhvbmUt/ZGlzcGxheS1vbi13/aGl0ZS1iYWNrZ3Jv/dW5kLXdvcmtzcGFj/ZS1tb2NrLXVwLWRl/c2lnbi5qcGc_cz02/MTJ4NjEyJnc9MCZr/PTIwJmM9LUU1d2d4/VVVwQkk3V0Z0b1ZY/eXRtWnh4X29LTWtN/VzVjalBtd3gzMS1w/cz0",
+      "description": "Powerful laptop with 16GB RAM, 512GB SSD, and Intel i7 processor."
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "price": 5699.99,
+      "image": "https://imgs.search.brave.com/dTE3mXQT2FybPNk2l4pw_wHv_DW69MSOWJZRsnUprDk/rs:fit:500:0:1:0/g:ce/aHR0cHM6Ly9pbWcu/ZnJlZXBpay5jb20v/cHJlbWl1bS1waG90/by93b21lbnMtc21h/cnQtd2F0Y2gtd2l0/aC13aGl0ZS1iYWNr/Z3JvdW5kXzY0MTUw/My0yNDY1MDIuanBn/P3NpemU9NjI2JmV4/dD1qcGc",
+      "description": "Feature-rich smartwatch with heart rate monitoring, GPS tracking, and seamless phone connectivity."
+    }
+  ]
+}
