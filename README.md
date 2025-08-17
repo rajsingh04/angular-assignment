@@ -33,7 +33,7 @@ npx cypress run
 
 # ⚙️ Tech Stack
 
-Angular (Frontend Framework)
-Cypress (E2E Testing)
+Angular (Frontend Framework),
+Cypress (E2E Testing) and
 Netlify / Vercel (Deployment)
 
