@@ -51,8 +51,8 @@
   text-align: center;
 }
 .product-image {
-  height: 15vw;
-  width: 15vw;
+  height: 50%;
+  width: 30%;
 }
 
 .btn {
