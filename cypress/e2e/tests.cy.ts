@@ -13,5 +13,14 @@ describe('Check deployed website', () => {
     cy.visit('https://angular-assignment-gamma-three.vercel.app/');
     cy.get('.search-box').type('wireless mouse');
     cy.get('.btn').click();
+    cy.contains('Wireless Mouse');
+    cy.contains('Price');
+  });
+  it('Close Modal', () => {
+    cy.visit('https://angular-assignment-gamma-three.vercel.app/');
+    cy.get('.search-box').type('wireless mouse');
+    cy.get('.btn').click();
+    cy.contains('Close');
+    cy.get('.modal > .btn').click();
   });
 });
