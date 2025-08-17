@@ -50,6 +50,10 @@
   height: 60vh;
   text-align: center;
 }
+.product-image {
+  height: 15vw;
+  width: 15vw;
+}
 
 .btn {
   appearance: none;
