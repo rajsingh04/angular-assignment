@@ -19,8 +19,9 @@ npm install
 ```bash
 ng serve
 ```
-The app will be available at http://localhost:4200/
-⚙️ Tech Stack
+<p>The app will be available at http://localhost:4200/</p>
+
+# ⚙️ Tech Stack
 
 -Angular (Frontend Framework)
 
