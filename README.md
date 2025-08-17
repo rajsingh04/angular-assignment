@@ -4,7 +4,7 @@ This project is a simple Angular application that displays a list of products, a
 
 ---
 
-## 🚀 Getting Started  
+## 🚀 Setup Project  
 
 ### 1. Clone Repository
 ```bash
@@ -21,11 +21,19 @@ ng serve
 ```
 <p>The app will be available at http://localhost:4200/</p>
 
+# 🧪 Running Cypress Tests
+### Open Cypress Test Runner
+```bash
+ npx cypress open
+```
+### Run Tests in Headless Mode
+```bash
+npx cypress run
+```
+
 # ⚙️ Tech Stack
 
--Angular (Frontend Framework)
-
+Angular (Frontend Framework)
 Cypress (E2E Testing)
-
 Netlify / Vercel (Deployment)
 
